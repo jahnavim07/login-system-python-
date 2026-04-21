@@ -18,4 +18,4 @@ A simple login system with password validation and authentication.
 
 ## How to Run
 Run main.py
-update 1
+update 2
